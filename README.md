@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedchapter-12-programming-exercise-4-sum-of-digits-in-a-string
+<br>
+Chapter 12 – Programming Exercise #4: Sum of Digits in a String. HINT: You will need to create a utility procedure that allows you to convert from a character to an integer value to allow you to sum the values of the digits in a string. Also, Raptor will not allow you to input a numeric value and treat it as a String input. To work around this limitation, I would recommend putting a character like ‘a’ somewhere in your input value so Raptor will treat the input as a String data type. Your program should be designed in such a way that it will ignore any non-numeric characters in the input string.
